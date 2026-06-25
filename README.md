@@ -9,7 +9,7 @@
 </div>
 
 <h2> About Me </h2>
-  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
+  <img width="55%" align="right" alt="Github" src="[https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg](https://i.pinimg.com/736x/4a/2c/63/4a2c637f229538bd0d27d6ba07e5da8c.jpg)">
 
 <ul>
   <li>
