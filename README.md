@@ -13,10 +13,10 @@
 
 <ul>
   <li>
-    <p>I’m currently working on </p>
+    <p>I’m currently working on personal projects</p>
   </li>
   <li>
-    <p>I’m currently learning Git, Java y GitHub</p>
+    <p>I’m currently learning Git, Java & GitHub</p>
   </li>
   <li>
     <p>Ask me about Sql, PHP, JavaScript</p>
@@ -27,21 +27,10 @@
 </ul>
 
 <h2> Skills </h2>
-  <a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=python&amp;sort="> 
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> 
-  </a>
-  
-  <a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=javascript&amp;sort="> 
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> 
-  </a>
-  
-  <a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=cpp&amp;sort="> 
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg"> 
-  </a>
-  
-  <a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=css&amp;sort="> 
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"> 
-  </a>
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> 
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> 
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg"> 
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"> 
 
 
 
