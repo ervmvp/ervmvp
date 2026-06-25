@@ -50,10 +50,6 @@
   <a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=css&amp;sort="> 
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"> 
   </a>
-  
-  <a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=html&amp;sort="> 
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> 
-  </a>
 
 
 
