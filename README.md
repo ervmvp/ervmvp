@@ -1,2 +1,1 @@
-# Ervin
-Hi there, I'm Ervin
+# Hi there, I'm Ervin
