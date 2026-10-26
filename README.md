@@ -87,8 +87,8 @@ I’m a programming student in Latvia focused on web development and databases. 
 <!-- Replace YOUR_GITHUB_USERNAME below with your GitHub username. -->
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ervmvp&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ervmvp&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Most used languages" />
 
 <br />
 
@@ -102,7 +102,7 @@ I’m a programming student in Latvia focused on web development and databases. 
 
 <!-- Replace YOUR_GITHUB_USERNAME below with your GitHub username. -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&amp;theme=tokyo-night&amp;hide_border=true" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ervmvp&amp;theme=tokyo-night&amp;hide_border=true" alt="GitHub activity graph" />
 </p>
 
 ---
