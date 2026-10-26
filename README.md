@@ -1,7 +1,7 @@
 <p align="center">
   <img
     src="https://i.pinimg.com/1200x/00/eb/15/00eb15a02be727a5b672faa4af856197.jpg"
-    alt="Decorative purple coding banner"
+    alt="Decorative coding banner"
     width="100%"
   />
 </p>
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://p0rtfolio-six.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=8A2BE2&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Programming+student+from+Latvia;Building+web+projects+with+PHP+and+Laravel;Learning+more+about+MySQL+and+JavaScript" alt="Programming student from Latvia; building web projects with PHP and Laravel; learning MySQL and JavaScript" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=1E90FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Programming+student+from+Latvia;Building+web+projects+with+PHP+and+Laravel;Learning+more+about+MySQL+and+JavaScript" alt="Programming student from Latvia; building web projects with PHP and Laravel; learning MySQL and JavaScript" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://p0rtfolio-six.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-8A2BE2?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Visit my portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-1E90FF?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Visit my portfolio" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@ I’m a programming student in Latvia focused on web development and databases. 
 
 <p align="center">
   <a href="https://p0rtfolio-six.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-8A2BE2?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Visit my portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-1E90FF?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Visit my portfolio" />
   </a>
 </p>
 
@@ -66,7 +66,7 @@ I’m a programming student in Latvia focused on web development and databases. 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📚 Class-ify </h3>
+      <h3>📚 Class-ify</h3>
       <p>A school project built with PHP and MySQL for teachers, students, and administrators.</p>
       <p>It includes class management, assignments, file submissions, comments, and grading.</p>
       <p><b>Built with:</b> PHP · MySQL · HTML · CSS</p>
@@ -97,15 +97,14 @@ I’m a programming student in Latvia focused on web development and databases. 
 
 ## 📊 GitHub Stats
 
-<!-- Replace YOUR_GITHUB_USERNAME below with your GitHub username. -->
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ervmvp&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ervmvp&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ervmvp&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ervmvp&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" alt="Most used languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=ervmvp&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=ervmvp&amp;theme=dark&amp;ring=1E90FF&amp;fire=1E90FF&amp;currStreakNum=1E90FF&amp;sideNums=58A6FF&amp;currStreakLabel=1E90FF&amp;sideLabels=58A6FF&amp;dates=8B949E&amp;hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
@@ -113,9 +112,8 @@ I’m a programming student in Latvia focused on web development and databases. 
 
 ## 📈 Activity
 
-<!-- Replace YOUR_GITHUB_USERNAME below with your GitHub username. -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ervmvp&amp;theme=tokyo-night&amp;hide_border=true" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ervmvp&amp;bg_color=0D1117&amp;color=58A6FF&amp;line=1E90FF&amp;point=FFFFFF&amp;area=true&amp;area_color=0D6EFD&amp;hide_border=true" alt="GitHub activity graph" />
 </p>
 
 ---
