@@ -60,6 +60,7 @@ I’m a programming student in Latvia focused on web development and databases. 
       <p>A school project built with PHP and MySQL for teachers, students, and administrators.</p>
       <p>It includes class management, assignments, file submissions, comments, and grading.</p>
       <p><b>Built with:</b> PHP · MySQL · HTML · CSS</p>
+      <p><a href="https://github.com/ervmvp/classify">View repository →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://identit-fy.vercel.app">🎨 Identit-fy</a></h3>
