@@ -35,9 +35,7 @@ I’m a programming student in Latvia focused on web development and databases. 
 
 <p align="center">
   <a href="https://p0rtfolio-six.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&amp;
-      logo=vercel&amp;
-      logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-8A2BE2?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Visit my portfolio" />
   </a>
 </p>
 
