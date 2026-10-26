@@ -62,9 +62,11 @@ I’m a programming student in Latvia focused on web development and databases. 
       <p><b>Built with:</b> PHP · MySQL · HTML · CSS</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🗓️ Children’s Events Scraper</h3>
-      <p>A Python project that collects event and talk information, filters for child-related content, and organizes the results in a document.</p>
-      <p><b>Built with:</b> Python</p>
+      <h3><a href="https://github.com/ervmvp/final-project---krievins">🎨 Identit-fy</a></h3>
+      <p><b>Face Design Creator</b><br>
+      A browser-based app for creating a custom face design. Combine features like hair, eyes, eyebrows, and facial hair, then adjust, flip, layer, or export them.</p>
+      <p><b>Built with:</b> JavaScript · CSS · HTML</p>
+      <p><a href="https://github.com/ervmvp/final-project---krievins">View repository →</a></p>
     </td>
   </tr>
   <tr>
