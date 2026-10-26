@@ -31,9 +31,6 @@
 
 ## 🛠️ Projects
 
-### Classroom Management System
-A school project built with PHP and MySQL. It is designed to support teachers, students, and administrators with classes, assignments, file submissions, comments, and grading.
-
 ### Children’s Events Scraper
 A Python project that gathers event and talk information, filters for child-related content, and organizes the results in a document.
 
