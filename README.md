@@ -56,7 +56,7 @@ I’m a programming student in Latvia focused on web development and databases. 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📚 Classroom Management System</h3>
+      <h3>📚 Class-ify </h3>
       <p>A school project built with PHP and MySQL for teachers, students, and administrators.</p>
       <p>It includes class management, assignments, file submissions, comments, and grading.</p>
       <p><b>Built with:</b> PHP · MySQL · HTML · CSS</p>
