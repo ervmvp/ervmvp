@@ -62,7 +62,7 @@ I’m a programming student in Latvia focused on web development and databases. 
       <p><b>Built with:</b> PHP · MySQL · HTML · CSS</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="[identit-fy.vercel.app](https://identit-fy.vercel.app)">🎨 Identit-fy</a></h3>
+      <h3><a href="https://identit-fy.vercel.app">🎨 Identit-fy</a></h3>
       <p><b>Face Design Creator</b><br>
       A browser-based app for creating a custom face design. Combine features like hair, eyes, eyebrows, and facial hair, then adjust, flip, layer, or export them.</p>
       <p><b>Built with:</b> JavaScript · CSS · HTML</p>
