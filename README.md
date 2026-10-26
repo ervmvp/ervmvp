@@ -1,46 +1,120 @@
 <h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
-  I'm a programming student from Latvia who enjoys building useful websites and learning how software works behind the scenes.
+  <strong>Programming student · Web development · Databases</strong>
 </p>
 
 <p align="center">
-  <a href="https://p0rtfolio-six.vercel.app">Visit my portfolio</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=8A2BE2&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Programming+student+from+Latvia;Building+web+projects+with+PHP+and+Laravel;Learning+more+about+MySQL+and+JavaScript" alt="Programming student from Latvia; building web projects with PHP and Laravel; learning MySQL and JavaScript" />
+</p>
+
+<p align="center">
+  I enjoy turning ideas into useful websites and learning how software works behind the scenes.
+</p>
+
+<p align="center">
+  <a href="https://portfolio-one-rho-mqee1iiwfz.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-8A2BE2?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Visit my portfolio" />
+  </a>
 </p>
 
 ---
 
-## 👤 About Me
+## 🚀 About Me
 
-- 💻 I’m studying programming and developing my skills through school and personal projects.
-- 🌐 I’m especially interested in web development and databases.
-- 🎨 I enjoy design, drawing, and exploring how AI can support the coding process.
-- 🚀 My goal is to keep growing as a developer and build practical projects.
+I’m a programming student in Latvia focused on web development and databases. I like creating practical projects, improving my coding skills, and exploring how design and AI can support development.
 
-## ⚡ Technologies
+- 🌐 Interested in frontend and backend web development
+- 🗄️ Learning to build applications that work with databases
+- 🎨 I enjoy design and drawing
+- 🧠 I’m always looking for new things to learn and build
+
+## 🤝 Connect
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,python&theme=dark" alt="HTML, CSS, JavaScript, PHP, Laravel, MySQL, and Python" />
+  <a href="https://portfolio-one-rho-mqee1iiwfz.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
-- **Languages:** JavaScript, PHP, SQL, HTML, CSS
-- **Framework:** Laravel
-- **Database:** MySQL
-- **Development tool:** Laragon
-- **Also exploring:** Python and responsive web design
+## 💻 Tech Stack
 
-## 🛠️ Projects
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,python,vscode&amp;theme=dark" alt="HTML, CSS, JavaScript, PHP, Laravel, MySQL, Python, and Visual Studio Code" />
+</p>
 
-### Children’s Events Scraper
-A Python project that gathers event and talk information, filters for child-related content, and organizes the results in a document.
+| Category | Technologies |
+| --- | --- |
+| **Languages** | JavaScript, PHP, SQL, HTML, CSS |
+| **Framework** | Laravel |
+| **Database** | MySQL |
+| **Development tool** | Laragon |
+| **Exploring** | Python, responsive web design |
 
-### Portfolio Website
-A personal website introducing my programming skills, projects, and interests. [View my portfolio](https://portfolio-one-rho-mqee1iiwfz.vercel.app).
+## 🛠️ Featured Projects
 
-## 🌱 What I’m Learning
-
-I’m continuing to improve my skills in web development, databases, and building complete applications. I like turning an idea into something people can use.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 Classroom Management System</h3>
+      <p>A school project built with PHP and MySQL for teachers, students, and administrators.</p>
+      <p>It includes class management, assignments, file submissions, comments, and grading.</p>
+      <p><b>Built with:</b> PHP · MySQL · HTML · CSS</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗓️ Children’s Events Scraper</h3>
+      <p>A Python project that collects event and talk information, filters for child-related content, and organizes the results in a document.</p>
+      <p><b>Built with:</b> Python</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Portfolio Website</h3>
+      <p>A personal website sharing my programming skills, projects, and interests.</p>
+      <p><a href="https://portfolio-one-rho-mqee1iiwfz.vercel.app">View my portfolio →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌱 Currently Learning</h3>
+      <p>Improving my web development and database skills while building complete, useful applications.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<p align="center">Thanks for visiting my profile! 😊</p>
+## 📊 GitHub Stats
+
+<!-- Replace YOUR_GITHUB_USERNAME below with your GitHub username. -->
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Most used languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 📈 Activity
+
+<!-- Replace YOUR_GITHUB_USERNAME below with your GitHub username. -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&amp;theme=tokyo-night&amp;hide_border=true" alt="GitHub activity graph" />
+</p>
+
+---
+
+<div align="center">
+
+### ✨ A little about how I work
+
+<em>Keep learning, keep building, and make each project a little better than the last.</em>
+
+<br /><br />
+
+Thanks for visiting my profile! 😊
+
+</div>
