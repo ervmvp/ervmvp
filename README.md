@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=8A2BE2&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Programming+student+from+Latvia;Building+web+projects+with+PHP+and+Laravel;Learning+more+about+MySQL+and+JavaScript" alt="Programming student from Latvia; building web projects with PHP and Laravel; learning MySQL and JavaScript" />
+  <a href="https://p0rtfolio-six.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=8A2BE2&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Programming+student+from+Latvia;Building+web+projects+with+PHP+and+Laravel;Learning+more+about+MySQL+and+JavaScript" alt="Programming student from Latvia; building web projects with PHP and Laravel; learning MySQL and JavaScript" />
+  </a>
 </p>
 
 <p align="center">
@@ -13,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-one-rho-mqee1iiwfz.vercel.app">
+  <a href="https://p0rtfolio-six.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-8A2BE2?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Visit my portfolio" />
   </a>
 </p>
