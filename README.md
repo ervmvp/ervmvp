@@ -32,8 +32,10 @@ I’m a programming student in Latvia focused on web development and databases. 
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://portfolio-one-rho-mqee1iiwfz.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
+  <a href="https://p0rtfolio-six.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&amp;
+      logo=vercel&amp;
+      logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -67,14 +69,14 @@ I’m a programming student in Latvia focused on web development and databases. 
       <p><b>Face Design Creator</b><br>
       A browser-based app for creating a custom face design. Combine features like hair, eyes, eyebrows, and facial hair, then adjust, flip, layer, or export them.</p>
       <p><b>Built with:</b> JavaScript · CSS · HTML</p>
-      <p><a href="https://github.com/ervmvp/final-project---krievins">View repository →</a></p>
+      <p><a href="https://github.com/ervmvp/identit-fy">View repository →</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🌐 Portfolio Website</h3>
       <p>A personal website sharing my programming skills, projects, and interests.</p>
-      <p><a href="https://portfolio-one-rho-mqee1iiwfz.vercel.app">View my portfolio →</a></p>
+      <p><a href="https://p0rtfolio-six.vercel.app">View my portfolio →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🌱 Currently Learning</h3>
