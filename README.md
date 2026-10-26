@@ -92,7 +92,7 @@ I’m a programming student in Latvia focused on web development and databases. 
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=ervmvp&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
