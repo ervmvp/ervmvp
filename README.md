@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://i.pinimg.com/1200x/c6/f4/7f/c6f47fdc1f6b4341af261269bfc80c36.jpg"
+    src="https://i.pinimg.com/1200x/00/eb/15/00eb15a02be727a5b672faa4af856197.jpg"
     alt="Decorative purple coding banner"
     width="100%"
   />
