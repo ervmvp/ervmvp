@@ -91,7 +91,6 @@ I’m a programming student in Latvia focused on web development and databases. 
       <p>A website monitoring tool that checks website availability, HTTP status codes, and server response times.</p>
       <p><b>Built with:</b> PHP · JavaScript · HTML · CSS</p>
       <p><a href="https://github.com/ervmvp/website-monitor">View repository →</a></p>
-      <p><a href="https://website-monitor-woad.vercel.app">Live website →</a></p>
     </td>
   </tr>
   <tr>
@@ -99,7 +98,6 @@ I’m a programming student in Latvia focused on web development and databases. 
       <h3><a href="https://research-map-xi.vercel.app">🗺️ Research Map</a></h3>
       <p>A web-based research mapping project for exploring and organizing information through an interactive map.</p>
       <p><a href="https://github.com/Daunis69/research-map">View repository →</a></p>
-      <p><a href="https://research-map-xi.vercel.app">Live website →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🌱 Currently Learning</h3>
